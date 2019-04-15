@@ -1,0 +1,50 @@
+body {background-image: url("background.jpg");
+			  background-color: #cccccc;
+			  background-repeat: no-repeat;
+			  background-size: cover;
+			  }
+		
+		h6 {font-family: stencil;
+			color: brown;
+			font-size: 48px}
+		
+		a:link { font-family: courier;
+				 font-size: 18px;
+		         text-decoration: none;
+		         color: yellow;
+				 }
+			
+		a:hover {color: white;
+		         text-decoration: none;
+				 }
+				 
+		.aligncenter {
+					text-align: center;
+		             }
+		
+		p.intro {font-family: courier;
+				font-size: 18px;
+				text-align: center;
+				color: yellow;
+				}
+		
+		table   {border: 1px solid black;
+			     border-collapse: collapse;
+				 text-align: left;
+				 border-color: yellow;
+				 float: center;
+		     	}
+		td, th  {font-family: courier;
+		         font-size: 14px;
+				 color: yellow;
+		         }
+		
+	    .form_table { text-align: center; }
+		
+        .full_width .segment_header { text-align: center !important; }
+		
+        .q { float:none;display: inline-block; }
+		
+        table.matrix, table.rating_ranking { margin-left:auto !important;margin-right:auto !important; }
+
+
